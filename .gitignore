@@ -1,1 +1,5 @@
+#ignore data storing files
 *.csv
+
+# Ignore all .env files
+.env
